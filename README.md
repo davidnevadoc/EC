@@ -1,0 +1,2 @@
+# EC
+Estructuras de computadores
